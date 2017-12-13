@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="src/Lib/eclipse-equinox-common-3.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/Lib/swt.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/Lib/swt-debug.jar"/>
+	<classpathentry kind="lib" path="src/Lib/org.eclipse.jface-3.1.0.jar"/>
+	<classpathentry kind="lib" path="src/Lib/org.eclipse.core.commands-3.3.0.jar"/>
+	<classpathentry kind="lib" path="src/Lib/org.eclipse.core.runtime-3.7.0.jar"/>
+	<classpathentry kind="lib" path="src/Lib/org.eclipse.osgi-3.2.2.jar"/>
+	<classpathentry kind="lib" path="src/Lib/org.eclipse.swt-3.1.jar"/>
+	<classpathentry kind="lib" path="src/Lib/org.eclipse.swt.win32.win32.x86-3.5.1.jar"/>
+	<classpathentry kind="lib" path="src/Lib/org.eclipse.ui-3.1.0.jar"/>
+	<classpathentry kind="lib" path="src/Lib/org.eclipse.ui.workbench-3.3.2.jar"/>
+	<classpathentry kind="lib" path="src/Lib/org.osgi.core-4.3.0.jar"/>
+	<classpathentry kind="lib" path="src/Lib/REngine.jar"/>
+	<classpathentry kind="lib" path="src/Lib/Rserve.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
