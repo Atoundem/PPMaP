@@ -6,7 +6,7 @@ Agronomy to Scale) project in collaboration with IITA and IPNI.
 #########################  INSTALLATION AND EXECUTION  #######################################
 PPMaP requite for is execution R to  install R package and launch Rserve; and the Java Virtual Machine(JVM) to launch PPMaP runnable Jar. To proceed, follow the instruction bellow.
 
-# Install R sorftware!!
+# Install R sorftware and Java!!
 #After Installed and open R, execute this commande to install usefull R-package!! 
 #
     install.packages(c("minpack.lm","MASS", "sp","maptools", "rgdal", "maps","doRNG","Rserve"), dependencies = T) 
